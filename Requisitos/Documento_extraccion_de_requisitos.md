@@ -37,6 +37,6 @@ Esta aplicación tendrá como requsitos no funcionales:
 * **Prioridad 2:** Insertar Alumno
 * **Prioridad 3:** Guardar Fichero Binario
 * **Prioridad 4:** Buscar Alumno
-* **Prioridad 5:** Moatrar Alumno
+* **Prioridad 5:** Mosstrar Alumno
 * **Prioridad 6:** Modificar y borrar Alumno
 * **Prioridad 7:** Salir de la Base de Datos
