@@ -26,11 +26,11 @@ Las partes interesadas presentes en nuestra aplicación serán tanto profesores 
 
 ## *Requisitos no Funcionales*
 Esta aplicación tendrá como requsitos no funcionales:
-* Establecimiento de una interfaz por línea de comandos
-* Se utilizará como Lenguaje de Programación C++ y  como Lenguaje de Documentación Marckdown
-* La información de los alumnos de la Base de Datos estará guardada en un fichero Binario
-* Deberá ser una aplicación eficiente y sencilla de comprender para el usuario
-* Toda la información a mostar se hará por línea de Comandos de forma clara y ordenada y a través de un fichero en lenguaje Markcdown o html
+* Establecimiento de una interfaz por línea de comandos.
+* Se utilizará como Lenguaje de Programación C++ y  como Lenguaje de Documentación Marckdown.
+* La información de los alumnos de la Base de Datos estará guardada en un fichero Binario.
+* Deberá ser una aplicación eficiente y sencilla de comprender para el usuario.
+* Toda la información a mostar se hará por línea de Comandos de forma clara y ordenada y a través de un fichero en lenguaje Markcdown o html.
 
 ## *Prioridad de los requisitos*
 * **Prioridad 1:** Cargar Fichero Binario
