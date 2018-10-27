@@ -1,12 +1,12 @@
-  # (ANVERSO)
+  #(ANVERSO)
   
-  ## ID:006 *Guardar* 
+  ##ID:006  *Guardar* 
   
   'Se permite guardar, realizandose sobre un fichero binario'
   
   **Prioridad**:3
   
-  # (REVERSO)
+  #(REVERSO)
   
    *Cada cambio que se haga permitira al usuario guardarlo.
    
