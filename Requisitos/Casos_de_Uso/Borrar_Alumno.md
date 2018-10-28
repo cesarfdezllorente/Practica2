@@ -18,14 +18,15 @@
 
 2. El sistema pregunta al usuario si desea borrar un alumno, un equipo o todas la base de datos
 
-2.1. Si es un alumno o equipo se hará uso de la función buscar, que retornará la posición de los alumnos buscados
+     2.1. Si es un alumno o equipo se hará uso de la función buscar_alumno, que retornará la posición de los alumnos buscados
 
-2.1.1. Se borrarán dichos alumnos
+         2.1.1. Se borrarán dichos alumnos
 
-2.2. Si es toda la base de datos, el sistema no hará uso de la función buscar y borrará toda la base de datos
+     2.2. Si es toda la base de datos, el sistema no hará uso de la función buscar_alumno y borrará toda la base de datos
 
 **Post condiciones**
 
 1. Se muestra mensaje de que se ha borrado a tal o tales alumnos
 
 **Flujo alternativo**
+2.1. Si la función buscar_alumno devuelve -1, quiere decir que no se han encontrado ese o esos alumnos, luego se mandará mensaje de error
