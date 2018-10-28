@@ -9,7 +9,7 @@
 -**Actores secundarios**: Alumno
 
 **Precondicciones**
-
+1. Debe de estar abierta la aplicación
  
 
 **Flujo principal**
@@ -22,4 +22,4 @@
 
 1. Se muestra un mensaje de que se ha salido con éxito
 
-**Flujo alternativo**
+
