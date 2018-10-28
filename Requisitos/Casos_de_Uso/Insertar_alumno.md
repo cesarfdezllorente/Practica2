@@ -25,8 +25,10 @@
 3. El sistema recoge los datos del alumno
 
 4. El sistema preguntará al usuario si desea introducir el grupo al que pertenece alumno y si es líder o no 
-    3.1. Si el usuario desea introducir estos datos, el sistema los recibirá 
-    3.2. Si el usuario no lo desea en ese momento, el sistema dejará esos campos a 0
+
+    4.1. Si el usuario desea introducir estos datos, el sistema los recibirá 
+    
+    4.2. Si el usuario no lo desea en ese momento, el sistema dejará esos campos a 0
 
 
 **Post condiciones**
