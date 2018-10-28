@@ -16,15 +16,15 @@
 
 1. El caso de uso comienza cuando el usuario desea modificar los datos de un alumno
 
-2. El sistema hace uso de la función buscar
+2. El sistema hace uso de la función buscar_alumno indicando a la función que quiere buscarse un alumno, no un equipo
 
-3. La función buscar retornará la posición del alumno
+      2.1 La función buscar_alumno retornará la posición del alumno
 
-4. El sistema solicita que campo desea modificar el alumno y cual es su centro
+3. El sistema solicita que campo desea modificar del alumno y cuál es su cambio
 
-5. El usuario proporciona dichos datos
+4. El usuario proporciona dichos datos
 
-6. El sistema introduce los nuevos cambios de dicho alumno 
+5. El sistema introduce los nuevos cambios de dicho alumno 
 
 **Post condiciones**
 
@@ -32,8 +32,8 @@
 
 **Flujo alternativo**
 
-3.a. Si el alumno a modificar no está en la base de datos
+2.a. Si el alumno a modificar no está en la base de datos se mandará mensaje de error
 
-3.b. Si se introduce un apellido y se encuentra repetido se mostrará un mensaje de error indicando que debe introducir el DNI del alumno a buscar
+2.b. Si se introduce un apellido y se encuentra repetido se mostrará un mensaje de error indicando que debe introducir el DNI del alumno a buscar
 
-5. Si se quiere modificar a un grupo y ponerle un lider pero ya tiene se mostrará un mensaje de error indicando que ese grupo ya tiene lider 
+3. Si se quiere modificar a un grupo y ponerle un lider pero ya tiene, se mostrará un mensaje de error indicando que ese grupo ya tiene lider 
