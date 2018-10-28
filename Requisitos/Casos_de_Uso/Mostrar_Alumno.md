@@ -35,3 +35,4 @@
 **Flujo alternativo**
 
 2. Si el usuario introduce unos datos de un alumno que no está en la base de datos, un equipo no creado o no hay alumnos en la base de datos aún. Se mostrará mensaje de error
+2.1 Si el usuario quería buscar un alumno por su apellidos pero hay más de uno en la Base de Datos,se mostrarán y se aconsejará buscar por Dni
