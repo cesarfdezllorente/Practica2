@@ -29,4 +29,5 @@
 1. Se muestra mensaje de que se ha borrado a tal o tales alumnos
 
 **Flujo alternativo**
+
 2.1. Si la función buscar_alumno devuelve -1, quiere decir que no se han encontrado ese o esos alumnos, luego se mandará mensaje de error
